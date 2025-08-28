@@ -167,4 +167,4 @@ print("BEV IoU:", bev_iou(gt_box,pred_box))
 
 
 
-Do you want me to also include a **visual diagram** of the pipeline (YOLO slice → merge → metrics) for the README? That would make it even clearer.
+
